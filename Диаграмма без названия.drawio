@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T13:27:05.105Z" agent="5.0 (Windows)" etag="Esluf9zgrwJ1vwem-VO1" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-12T13:36:09.209Z" agent="5.0 (Windows)" etag="KQ58dUM9f-PWauPtOE_J" version="15.9.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1185" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -126,8 +126,32 @@
         <mxCell id="4CCF4_CBr2mV69rZFA-c-48" value="Конец цикла" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="710" y="1204" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4CCF4_CBr2mV69rZFA-c-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4CCF4_CBr2mV69rZFA-c-50" target="4CCF4_CBr2mV69rZFA-c-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4CCF4_CBr2mV69rZFA-c-50" value="&lt;div&gt;xStar = x - _dirX[dir], &lt;br&gt;&lt;/div&gt;&lt;div&gt;yStar = y - _dirY[dir];&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="1320" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4CCF4_CBr2mV69rZFA-c-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4CCF4_CBr2mV69rZFA-c-54" target="4CCF4_CBr2mV69rZFA-c-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4CCF4_CBr2mV69rZFA-c-54" value="Позиция валидна и НЕ(ячейка пустая или ячейка занята)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="1450" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4CCF4_CBr2mV69rZFA-c-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4CCF4_CBr2mV69rZFA-c-56" target="4CCF4_CBr2mV69rZFA-c-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4CCF4_CBr2mV69rZFA-c-56" value="xStar = x + _dirX[dir] * word.Length;&lt;br&gt;yStar = y + _dirY[dir] * word.Length;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="1600" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4CCF4_CBr2mV69rZFA-c-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4CCF4_CBr2mV69rZFA-c-58" target="4CCF4_CBr2mV69rZFA-c-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4CCF4_CBr2mV69rZFA-c-58" value="Позиция валидна и НЕ(ячейка пустая или ячейка занята)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="1730" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4CCF4_CBr2mV69rZFA-c-60" value="Если result = длине слова, то вывод -1, иначе result" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="1880" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
