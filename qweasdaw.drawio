@@ -1,161 +1,161 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T21:26:20.261Z" agent="5.0 (Windows)" etag="NLF2002rIbIS8GresKo5" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-16T06:36:51.440Z" agent="5.0 (Windows)" etag="txUA7f2KxsDk-3_fFfCJ" version="15.9.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2370" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="KjuugzSMr7blK7oFbPG1-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-12" target="KjuugzSMr7blK7oFbPG1-14">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-12" target="KjuugzSMr7blK7oFbPG1-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-12" value="НАЧАЛО" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="180" width="200" height="100" as="geometry" />
+        <mxCell id="KjuugzSMr7blK7oFbPG1-12" value="НАЧАЛО" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="280" y="210" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.196;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-14" target="KjuugzSMr7blK7oFbPG1-15">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.196;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-14" target="KjuugzSMr7blK7oFbPG1-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="199" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-19" value="&lt;div&gt;Да&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KjuugzSMr7blK7oFbPG1-18">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-19" value="&lt;div&gt;Да&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KjuugzSMr7blK7oFbPG1-18" vertex="1" connectable="0">
           <mxGeometry x="-0.4244" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.829;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-14" target="KjuugzSMr7blK7oFbPG1-36">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.829;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-14" target="KjuugzSMr7blK7oFbPG1-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="566" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-50" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KjuugzSMr7blK7oFbPG1-49">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-50" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KjuugzSMr7blK7oFbPG1-49" vertex="1" connectable="0">
           <mxGeometry x="-0.7172" y="1" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-14" value="dir=0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-14" value="dir=0" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="300" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-15" target="KjuugzSMr7blK7oFbPG1-20">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-15" target="KjuugzSMr7blK7oFbPG1-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-15" value="Цикл" style="shape=loopLimit;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-15" value="Цикл" style="shape=loopLimit;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="424" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-20" target="KjuugzSMr7blK7oFbPG1-22">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-20" target="KjuugzSMr7blK7oFbPG1-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-20" value="&lt;div&gt;Проверка на наличие слов&lt;/div&gt;&lt;div&gt;в ячейке&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-20" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Проверка на наличие слов&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;в ячейке&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="544" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-22" target="KjuugzSMr7blK7oFbPG1-23">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-22" target="KjuugzSMr7blK7oFbPG1-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-22" value="&lt;div&gt;Проверка на наличие рядом&lt;/div&gt;&lt;div&gt;слов селва по горизонтали&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-22" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Проверка на наличие рядом&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;слов селва по горизонтали&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="664" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-23" target="KjuugzSMr7blK7oFbPG1-28">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-23" target="KjuugzSMr7blK7oFbPG1-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-23" value="&lt;div&gt;Проверка на наличие рядом&lt;/div&gt;&lt;div&gt;слов справа по горизонтали&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-23" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Проверка на наличие рядом&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;слов справа по горизонтали&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="784" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-28" target="KjuugzSMr7blK7oFbPG1-30">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-28" target="KjuugzSMr7blK7oFbPG1-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-28" value="&lt;div&gt;Проверка на пересечение&lt;/div&gt;&lt;div&gt;букв&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-28" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Проверка на пересечение&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;букв&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="904" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-30" target="KjuugzSMr7blK7oFbPG1-51">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-30" target="KjuugzSMr7blK7oFbPG1-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-30" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-30" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;rotation=-180;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="1024" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-32" value="Конец цикла" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-32" value="Конец цикла" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="230" y="1059" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-36" target="KjuugzSMr7blK7oFbPG1-38">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-36" target="KjuugzSMr7blK7oFbPG1-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-36" value="Цикл" style="shape=loopLimit;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-36" value="Цикл" style="shape=loopLimit;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="424" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-38" target="KjuugzSMr7blK7oFbPG1-40">
+        <mxCell id="gd_nXKaenAynqCO1Dm-4-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-38" target="KjuugzSMr7blK7oFbPG1-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-38" value="&lt;div&gt;Проверка на наличие слов&lt;/div&gt;&lt;div&gt;в ячейке&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="544" width="200" height="100" as="geometry" />
+        <mxCell id="KjuugzSMr7blK7oFbPG1-38" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Проверка на наличие слов&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;в ячейке&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="385" y="544" width="230" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-40" target="KjuugzSMr7blK7oFbPG1-42">
+        <mxCell id="gd_nXKaenAynqCO1Dm-4-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-40" target="KjuugzSMr7blK7oFbPG1-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-40" value="&lt;div&gt;Проверка на наличие рядом&lt;/div&gt;&lt;div&gt;слов селва по горизонтали&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-40" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Проверка на наличие рядом&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;слов селва по горизонтали&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="664" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-42" target="KjuugzSMr7blK7oFbPG1-44">
+        <mxCell id="gd_nXKaenAynqCO1Dm-4-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-42" target="KjuugzSMr7blK7oFbPG1-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-42" value="&lt;div&gt;Проверка на наличие рядом&lt;/div&gt;&lt;div&gt;слов справа по горизонтали&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-42" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Проверка на наличие рядом&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;слов справа по горизонтали&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="784" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-44" target="KjuugzSMr7blK7oFbPG1-45">
+        <mxCell id="gd_nXKaenAynqCO1Dm-4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-44" target="KjuugzSMr7blK7oFbPG1-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-44" value="&lt;div&gt;Проверка на пересечение&lt;/div&gt;&lt;div&gt;букв&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-44" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Проверка на пересечение&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;букв&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="904" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-45" target="KjuugzSMr7blK7oFbPG1-51">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-45" target="KjuugzSMr7blK7oFbPG1-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-45" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-45" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;rotation=-180;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="1024" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-46" value="Конец цикла" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-46" value="Конец цикла" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="470" y="1059" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-51" value="А" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="1164" width="80" height="80" as="geometry" />
+        <mxCell id="KjuugzSMr7blK7oFbPG1-51" value="А" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="350" y="1169" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-54" target="KjuugzSMr7blK7oFbPG1-55">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-54" target="KjuugzSMr7blK7oFbPG1-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-54" value="А" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="760" y="320" width="80" height="80" as="geometry" />
+        <mxCell id="KjuugzSMr7blK7oFbPG1-54" value="А" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="775" y="350" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-55" target="KjuugzSMr7blK7oFbPG1-56">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-55" target="KjuugzSMr7blK7oFbPG1-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-55" value="&lt;div&gt;xStar = x - _dirX[dir];&lt;/div&gt;&lt;div&gt;yStar = y - _dirYdir];&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-55" value="&lt;div&gt;xStar = x - _dirX[dir];&lt;/div&gt;&lt;div&gt;yStar = y - _dirYdir];&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="700" y="430" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-56" target="KjuugzSMr7blK7oFbPG1-57">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-56" target="KjuugzSMr7blK7oFbPG1-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-56" value="&lt;div&gt;Проверка ячейки на валидность&lt;/div&gt;&lt;div&gt;и наличие слов&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-56" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Проверка ячейки на валидность&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;и наличие слов&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="700" y="554" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-57" target="KjuugzSMr7blK7oFbPG1-58">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-57" target="KjuugzSMr7blK7oFbPG1-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-57" value="&lt;br&gt;&lt;div&gt;xStar = x + _dirX[dir] * word.Length;&lt;/div&gt;&lt;div&gt;yStar = y + _dirY[dir]* word.Length;&lt;br&gt;&lt;/div&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-57" value="&lt;br&gt;&lt;div&gt;xStar = x + _dirX[dir] * word.Length;&lt;/div&gt;&lt;div&gt;yStar = y + _dirY[dir]* word.Length;&lt;br&gt;&lt;/div&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="700" y="674" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-58" target="KjuugzSMr7blK7oFbPG1-59">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-58" target="KjuugzSMr7blK7oFbPG1-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-58" value="&lt;br&gt;&lt;div&gt;Проверка ячейки на валидность&lt;/div&gt;&lt;div&gt;и наличие слов&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-58" value="&lt;br&gt;&lt;div&gt;Проверка ячейки на валидность&lt;/div&gt;&lt;div&gt;и наличие слов&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="700" y="798" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-59" target="KjuugzSMr7blK7oFbPG1-69">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KjuugzSMr7blK7oFbPG1-59" target="KjuugzSMr7blK7oFbPG1-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-59" value="Вывод" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KjuugzSMr7blK7oFbPG1-59" value="Вывод" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="700" y="920" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KjuugzSMr7blK7oFbPG1-69" value="КОНЕЦ" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="1040" width="200" height="100" as="geometry" />
+        <mxCell id="KjuugzSMr7blK7oFbPG1-69" value="КОНЕЦ" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="700" y="1040" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
